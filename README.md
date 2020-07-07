@@ -15,6 +15,6 @@ Please select your server :
 ```
 
 
-This application is simple, just input the proper number that used for connect to server NoLimit.
+This application is simple, just input the proper number that used for connect to server.
 
 Made by love.
