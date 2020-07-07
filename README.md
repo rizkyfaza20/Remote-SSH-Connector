@@ -1,4 +1,4 @@
-# NoLimit-SSH-Connector
+# Remote-SSH-Connector
 
 SSH Connector using Bash Script
 
