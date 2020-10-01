@@ -5,7 +5,7 @@ SSH Connector using Bash Script
 Previews : 
 
 ```
-Connect your server NoLimit via SSH Terminal
+Connect your server via SSH Terminal
 
 -------------------------------------------
 Please select your server : 
